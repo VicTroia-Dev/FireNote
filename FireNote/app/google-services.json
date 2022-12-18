@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "472230633275",
+    "firebase_url": "https://fir-app-d4c6e-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-d4c6e",
+    "storage_bucket": "fir-app-d4c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472230633275:android:38d95eb968148cad78a11e",
+        "android_client_info": {
+          "package_name": "com.example.password_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvGUPtrhYKc8qjHEK80cQdT7MNnfwm3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472230633275:android:2f0d900d731df30178a11e",
+        "android_client_info": {
+          "package_name": "com.example.roomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvGUPtrhYKc8qjHEK80cQdT7MNnfwm3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472230633275:android:323b25a0e65da19b78a11e",
+        "android_client_info": {
+          "package_name": "com.example.storageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvGUPtrhYKc8qjHEK80cQdT7MNnfwm3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472230633275-fhjomvrt4c3nctefdrcc0abnrp9lftkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
